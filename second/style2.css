@@ -1,0 +1,46 @@
+
+html, body {
+	background: rgba(214, 214, 214, 1);
+	margin: 0%;
+}
+
+.one {
+	background: rgba(60, 122, 219, 1);
+	height: 80%;
+	width: 33.3%;
+	margin-top: 10%;
+	float: left;
+}
+
+.two {
+	background: rgba(70, 223, 116, 1);
+	height: 80%;
+	width: 33.3%;
+	margin-top: 10%;
+	float: left;
+}
+
+.three {
+	background: rgba(170, 231, 116, 1);
+	height: 65%;
+	width: 33.3%;
+	margin-top: 10%;
+	float: left;
+}
+
+.four {
+	background: rgba(194, 0, 24, 1);
+	height: 15%;
+	width: 33.3%;
+	float: left;
+
+}
+
+.four h3 {
+	color: #fff;
+	font-size 2em;
+	font-family: Avenir;
+	font-weight: normal;
+	text-align: center;
+	padding-top: 8%;
+}

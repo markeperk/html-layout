@@ -1,0 +1,58 @@
+html, body {
+	background: rgba(214, 214, 214, 1);
+	margin: 0%;
+}
+
+.one {
+	background: rgb(207, 207, 207);
+	margin-top: 5%;
+	height: 10%;
+	width: 100%;
+	padding-top: 1%;
+}
+
+.one-sub {
+	background: rgb(60, 122, 219);
+	width: 7%;
+	height: 85%;
+	margin: .5% 80% 1% 2%;
+
+}
+
+.two {
+	background: #fff;
+	height: 25%;
+	width: 100%;
+}
+
+.three {
+	background: rgb(60, 122, 219);
+	height: 15%;
+	width: 100%;
+}
+
+.four {
+	background: rgb(70, 223, 180);
+	height: 15%;
+	width: 100%;
+}
+
+.five {
+	background: rgb(171, 231, 116);
+	height: 15%;
+	width: 100%;
+}
+
+.six {
+	background: rgb(246, 228, 25);
+	height: 15%;
+	width: 100%;
+}
+
+.two p {
+	font-family: Avenir;
+	font-size: 1em;
+	margin: 0 5%;
+	vertical-align: middle;
+	padding-top: 4%;
+}
